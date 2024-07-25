@@ -1,0 +1,26 @@
+# output for file-"final_simpledemo_project.ipynb"
+The dimensions of the chosen image are:
+1024 683
+
+Enter key to edit (Security Key):  123
+Enter text to hide:  qwerty
+Encrypted image saved as 'encrypted_img.jpg'.
+Data hiding in image completed successfully!
+
+Enter 'extract' to extract data from the image, or 'exit' to quit:  extract
+
+Re-enter key to extract text:  12
+Keys do not match. Unable to extract text.
+
+Enter key to edit (Security Key):  12
+Enter text to hide:  this is simple image stegano method
+Encrypted image saved as 'encrypted_img.jpg'.
+Data hiding in image completed successfully!
+
+Enter 'extract' to extract data from the image, or 'exit' to quit:  extract
+
+Re-enter key to extract text:  12
+Decrypted text: this is simple image stegano method
+---------------------------------------
+Enter 'continue' to start again or 'exit' to quit:  exit
+Exited !!!
