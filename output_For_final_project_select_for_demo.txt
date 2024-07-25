@@ -1,0 +1,17 @@
+# output for file "final_project_select_for_demo.ipynb" 
+The dimensions of the chosen image are:
+1024 683
+
+Enter key to edit (Security Key):  ········
+Enter text to hide:  ········
+Encrypted image saved as 'encrypted_img.jpg'.
+Data hiding in image completed successfully!
+
+Enter 'extract' to extract data from the image (you have 2 attempts only in case of wrong key entered), or 'exit' to quit:
+ONLY ENTER EXTRACT / EXIT else you need to start from the beginning:  extract
+
+Re-enter key to extract text:  ········
+Decrypted text: this is image steganography
+---------------------------------------
+Enter 'continue' to start again or 'exit' to quit:  exit
+Exited !!!
